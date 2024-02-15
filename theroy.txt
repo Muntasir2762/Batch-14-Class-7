@@ -1,0 +1,14 @@
+
+==== HTML Elements (type) ======
+
+1. Inline Elements (Required Places)
+2. Block Level Elements (100% Places)
+
+
+====Some Tags===
+del => delete
+
+div => division
+section
+<script></script>
+<style></style>
